@@ -1,0 +1,18 @@
+# To-Do List Application Requirements
+# This project uses only Python standard library modules
+# No external dependencies required
+
+# Python Standard Library Modules Used:
+# - tkinter (for GUI)
+# - json (for data persistence)
+# - datetime (for timestamps)
+# - typing (for type hints)
+# - os (for file operations)
+# - sys (for system operations)
+
+# Minimum Python Version: 3.7+
+
+# Note: tkinter comes pre-installed with most Python distributions
+# If tkinter is not available on Linux, install it with:
+# sudo apt-get install python3-tk (Ubuntu/Debian)
+# sudo yum install python3-tkinter (Fedora/RHEL)
